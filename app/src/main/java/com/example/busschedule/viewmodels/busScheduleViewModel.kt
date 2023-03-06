@@ -1,3 +1,4 @@
+// Par Sebastien Pannatier
 package com.example.busschedule.viewmodels
 
 import androidx.lifecycle.ViewModel
